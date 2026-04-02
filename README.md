@@ -1,1 +1,1 @@
-# AIML-PROJECT-Spam-mail-classifier-
+# spam-mail-classifier
